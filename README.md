@@ -7,5 +7,3 @@ This project generates QR codes from given URLs and saves them as PNG images. It
 
 ## QR Code
 ![QR Code](qrcode.png)
-## Log of QR Code Creation
-![Log Image](log_image.png)
